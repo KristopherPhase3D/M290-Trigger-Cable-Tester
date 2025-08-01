@@ -14,8 +14,10 @@ Contained in this project will be the source code, design files, bill of materia
 | 1 | Arcade Button with LED - 30mm Translucent Yellow | Adafruit | 3488 | $2.50 | [Buy Here](https://www.adafruit.com/product/3488) |
 | 1 | Arcade Button with LED - 30mm Translucent Red | Adafruit | 3489 | $2.50 | [Buy Here](https://www.adafruit.com/product/3489) |
 | 4 | 18-8 Stainless Steel Socket Head Screws M3 x 0.35 mm Thread, 12 mm Long | McMaster Carr | 0751A113 | $0.11 | [Buy Here](https://www.mcmaster.com/90751a113/) |
-| 4 | Cable Glands | McMaster Carr | 69915K52 | $4.14 | [Buy Here](https://www.mcmaster.com/69915K52/) |
+| 2 | Cable Glands | McMaster Carr | 69915K52 | $4.14 | [Buy Here](https://www.mcmaster.com/69915K52/) |
 | 1 | JST SH 7 Pin Male Header | Unknown | Unknown | $10.66 | [Buy Here](https://www.amazon.com/Kidisoii-Connector-Header-Adapter-SH1-0-SMT-R/dp/B0CQ28CCQG/ref=sr_1_5?crid=1ES41IM0CSFKX&dib=eyJ2IjoiMSJ9.uyiEoyE8ChFhNbwclurznGFRSdtbLlw2IKMrgy1FAgfye4n6n4LbtKR-SOhG9H9r1Z60a_9e5_KNhqdEboOVeHuA6jendr0B9sC7lqw_L_E_U9iEy32Jrtg5P7_blBlm1bLiY5bjnmMV1_qx2rucysIefanhp5NVzxovFL6oyHTtXkSd0Nm--uXGIqU98mb_URaFKughxKAaPLjAoAqv_Vypur0jR-13umxwghTkj_E.TvSgGYFk8oklOMkiORaoqmiag8LWpsZbr_dy6Okpco4&dib_tag=se&keywords=jst%2Bsh%2Bmale&qid=1754070232&sprefix=jst%2Bsh%2Bmale%2Caps%2C125&sr=8-5&th=1) |
 | 1 | IDC Panel Mount Connector | Assmann WSW Components | AWH 10G-E202-IDC | $3.37 | [Buy Here](https://www.digikey.com/en/products/detail/assmann-wsw-components/AWH-10G-E202-IDC/5030355?gclsrc=aw.ds&gad_source=1&gad_campaignid=17336967819&gclid=CjwKCAjwy7HEBhBJEiwA5hQNol6bteQBj9huvbfxGviSiISY_yUQ0KetCyFN6mzlE112K-Wi8uIoUxoCn1YQAvD_BwE) |
-| 2 | 2 Pin JST PH Headers | Unknown | Unknown | $8.99 | [Buy Here]([https://www.amazon.com/dp/B0D4MDNZ9D?ref=fed_asin_title](https://www.amazon.com/Socket-Compatible-JST-PH-Connectors-Through-Hole/dp/B0BM492MMF) |
-| 1 | 24 Pin 2 Row Header | JST Sales America Inc. | B24B-PHDSS | $0.76 | [Buy Here](https://www.digikey.com/en/products/detail/jst-sales-america-inc/B24B-PHDSS/926675) |
+| 2 | 2 Pin JST PH Headers 2mm | Unknown | Unknown | $8.99 | [Buy Here](https://www.amazon.com/Socket-Compatible-JST-PH-Connectors-Through-Hole/dp/B0BM492MMF) |
+| 1 | 24 Pin 2 Row Header 2mm | JST Sales America Inc. | B24B-PHDSS | $0.76 | [Buy Here](https://www.digikey.com/en/products/detail/jst-sales-america-inc/B24B-PHDSS/926675) |
+| 1 | 4 Pin JST PH Headers 2mm | Unknown | Unknown | $8.99 | [Buy Here](https://www.amazon.com/Socket-Compatible-JST-PH-Connectors-Through-Hole/dp/B0BM492MMF) |
+| 1 | 2mm 6cm x 8cm breadboard | Adafruit | 5588 | $1.95 | [Buy Here](https://www.adafruit.com/product/5588) |
